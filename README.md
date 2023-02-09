@@ -30,7 +30,7 @@ But what do these actually do? Well, I was hoping the command names were obvious
 
 ## enableUniformDisOrDatBonusPoints(Boolean) : void
 Setting this command to true will alter the distribution of the 'TIME BONUS' the main DisOrDat player recieves upon completing the DisOrDat before time runs out. If this command is set to true, the DisOrDat 'TIME BONUS' the main DisOrDat player recieves will always be the uniform value set by a later command (default is $1,000) regardless of how much time that player took to complete the DisOrDat. Think of it as 'pity points' if you will.
-  Setting this command to false will revert 'TIME BONUS' point distribution to its default time-based scoring.
+<br>  Setting this command to false will revert 'TIME BONUS' point distribution to its default time-based scoring.
 
 ## enableUniformShortiePoints(Boolean) : void
 Setting this command to true will alter the distribution of points gained or lost in the Shortie (standard) questions. If this command is set to true, players will always win or lose points in the Shortie segment based on a uniform value set by a later command (default is $1,000) regardless of how fast players buzz in their answers. This uniform value is added or subtracted based on whether you answered correctly or incorrectly respectively, or based on whether you successfully screw a player or you get screwed yourself, respectively. It is also multiplied by the number of rounds elapsed.
