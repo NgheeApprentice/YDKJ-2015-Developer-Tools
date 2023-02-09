@@ -34,31 +34,31 @@ Setting this command to true will alter the distribution of the 'TIME BONUS' the
 
 ## enableUniformShortiePoints(Boolean) : void
 Setting this command to true will alter the distribution of points gained or lost in the Shortie (standard) questions. If this command is set to true, players will always win or lose points in the Shortie segment based on a uniform value set by a later command (default is $1,000) regardless of how fast players buzz in their answers. This uniform value is added or subtracted based on whether you answered correctly or incorrectly respectively, or based on whether you successfully screw a player or you get screwed yourself, respectively. It is also multiplied by the number of rounds elapsed.
-  The "Wrong Answer of the Game" prize bonus is unaffected by this command.
-  The "It's The Put The Choices Into Order Then Buzz In And See If You Are Right Question" correct answer bonus is unaffected by this command.
-  Setting this command to false will revert Shortie point distrubution to its default time-based scoring.
+<br>  The "Wrong Answer of the Game" prize bonus is unaffected by this command.
+<br>  The "It's The Put The Choices Into Order Then Buzz In And See If You Are Right Question" correct answer bonus is unaffected by this command.
+<br>  Setting this command to false will revert Shortie point distrubution to its default time-based scoring.
 
 ## setUniformDisOrDatBonusPointsValue(integer) : void
 If `enableUniformDisOrDatBonusPoints(Boolean)` is set to true, the 'TIME BONUS' given to the main DisOrDat player upon completing the DisOrDat before time runs out is set to the integer value inputted into this particular command.
-  Default is $1,000.
+<br>  Default is $1,000.
 
 ## setUniformShortiePointsValue(integer) : void
 If `enableUniformShortiePoints(Boolean)` is set to true, all scoring, added, subtracted, or multiplied, will be based on the integer value inputted into this particular command.
-  Default is $1,000.
-  The "Wrong Answer of the Game" prize bonus is unaffected by this command.
-  The "It's The Put The Choices Into Order Then Buzz In And See If You Are Right Question" correct answer bonus is unaffected by this command.
+<br>  Default is $1,000.
+ <br> The "Wrong Answer of the Game" prize bonus is unaffected by this command.
+ <br> The "It's The Put The Choices Into Order Then Buzz In And See If You Are Right Question" correct answer bonus is unaffected by this command.
 
 ## setJackAttackAnswerRevealTimeMultiplier(Number) : void
 This command multiplies the time it takes for possible answers to be selected in the Jack Attack, before a new answer is introduced by the float number value provided in this particular command.
-  Default is 1.0.
-  For reference, the default 'Match Time' for each answer in the Jack Attack is 2.535 seconds. Multiplying this value by 1.5 for example, would make the 'Match Time' roughly 3.803 seconds.
-  Note: Particularly regarding higher multipliers, all answers in the Jack Attack will remain buzzable, even after the text widget visually disappears. It is only when a new answer text visually appears that the answer you'll be buzzing will change.
+<br>  Default is 1.0.
+<br>  For reference, the default 'Match Time' for each answer in the Jack Attack is 2.535 seconds. Multiplying this value by 1.5 for example, would make the 'Match Time' roughly 3.803 seconds.
+<br>  Note: Particularly regarding higher multipliers, all answers in the Jack Attack will remain buzzable, even after the text widget visually disappears. It is only when a new answer text visually appears that the answer you'll be buzzing will change.
 
 ## forceQuestion(String, integer) : void
 This command forces one question, and one question only, to be tested for the entirity of the first two rounds. Useful for testing custom questions, or recording footage.
-  Default behaviour doesn't force anything, String value is effectively equal to "".
-  The String value refers to the ID of the question you wish to force. These can be found by searching through the path The Jackbox Party Pack\games\YDKJ2015\questions and forcing a question from there.
-  The integer value refers to the TYPE of question it is. In YDKJ:2015, since all questions are stored in the same folder, different question types are instead defined by episode metadata. If a question ID is called, but the question type called from the episode metadata doesn't match the question's unique parameters, then the question fails to load. So, what are these question types?
+<br>  Default behaviour doesn't force anything, String value is effectively equal to "".
+<br>  The String value refers to the ID of the question you wish to force. These can be found by searching through the path The Jackbox Party Pack\games\YDKJ2015\questions and forcing a question from there.
+<br>  The integer value refers to the TYPE of question it is. In YDKJ:2015, since all questions are stored in the same folder, different question types are instead defined by episode metadata. If a question ID is called, but the question type called from the episode metadata doesn't match the question's unique parameters, then the question fails to load. So, what are these question types?
 #### 1
 Refers to the standard Shortie question type. Special bumpers, Wrong Answers of the Game and such will not interfere with the question type.
 #### 2
