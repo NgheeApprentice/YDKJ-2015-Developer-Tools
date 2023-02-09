@@ -1,10 +1,10 @@
 # HEY. YOU.
 Yeah, you. Are you one of those people that still respect YDKJ:2015?
-  Are you one of those people that love to play trivia games with friends and family, and not by yourself like a little loser?
-  Are you one of those people that are annoyed that YDKJ:2015 is almost impossible to play on stream?
-  Are you one of those people that want a easier way to write and test custom YDKJ:2015 episodes?
-
-  Well, if you are one of these people, or multiple of these people in a trenchcoat, then stop crying about it because a new tool is here!
+<br>  Are you one of those people that love to play trivia games with friends and family, and not by yourself like a little loser?
+<br>  Are you one of those people that are annoyed that YDKJ:2015 is almost impossible to play on stream?
+<br>  Are you one of those people that want a easier way to write and test custom YDKJ:2015 episodes?
+<br>
+<br>  Well, if you are one of these people, or multiple of these people in a trenchcoat, then stop crying about it because a new tool is here!
 
 # YDKJ:2015 Developer Tools
 ### So, what is this mod?
