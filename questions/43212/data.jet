@@ -1,0 +1,9 @@
+{"fields":[{"v":"false","t":"B","n":"bOpponent"},{"v":"false","t":"B","n":"bBoth"},
+{"v":"I wonder how science is going at the Bleacha Nebula...","t":"S","n":"tCat"},{"v":"aCat","t":"A","n":"aCat"},
+{"v":"aSetup","t":"A","n":"aSetup"},{"v":"S+3.3","t":"S","n":"$aSetup$cDis"},{"v":"S+8.00","t":"S","n":"$aSetup$cDat"},{"v":"a made up word or phrase uttered by Zeeple Dome host, Glargan O\u2019Toe","t":"S","n":"tDis"},{"v":"The scientific name of an animal","t":"S","n":"tDat"},
+{"v":"aDis","t":"A","n":"aDis"},{"v":"aDat","t":"A","n":"aDat"},{"v":"S+0.68","t":"S","n":"$aDis$cDisButton"},{"v":"S+0.8","t":"S","n":"$aDat$cDatButton"},{"v":"ZEEPLE DOME","t":"S","n":"tDisButton"},{"v":"SCIENTIFIC NAME","t":"S","n":"tDatButton"},
+{"v":"aQ1","t":"A","n":"aQ1"},{"v":"aQ2","t":"A","n":"aQ2"},{"v":"aQ3","t":"A","n":"aQ3"},{"v":"aQ4","t":"A","n":"aQ4"},{"v":"aQ5","t":"A","n":"aQ5"},{"v":"aQ6","t":"A","n":"aQ6"},{"v":"aQ7","t":"A","n":"aQ7"},
+{"v":"Apoda","t":"S","n":"tQ1"},{"v":"Boiga","t":"S","n":"tQ2"},{"v":"Chu Chon","t":"S","n":"tQ3"},{"v":"Esox","t":"S","n":"tQ4"},{"v":"Hargon","t":"S","n":"tQ5"},{"v":"Jarbo","t":"S","n":"tQ6"},{"v":"Spinus Pinus","t":"S","n":"tQ7"},
+{"v":"1,1,0,1,0,0,1","t":"S","n":"tAns"},
+{"v":"aGenRocked","t":"A","n":"aGenRocked"},{"v":"aGenPoor","t":"A","n":"aGenPoor"},{"v":"aGenDecent","t":"A","n":"aGenDecent"},{"v":"aGenAwful","t":"A","n":"aGenAwful"},{"v":"aExit","t":"A","n":"aExit"},
+{"v":"S+0.00","t":"S","n":"$aInstr$cCorrect"},{"v":"S+0.00","t":"S","n":"$aTimer$cTimer"},{"v":"S+0.00","t":"S","n":"$aInstr$cIncorrect"},{"t":"A","n":"aTimer"},{"t":"A","n":"aInstr"}]}

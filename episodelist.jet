@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="episodes">
+        <item>
+            <mystring>Episode 1: The San Francisco Otter Choir</mystring>
+            <id>1203</id>
+            <locked>0</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+         <item>
+            <mystring>Episode 2: Flavored Eye Drops</mystring>
+            <id>1202</id>
+            <locked>0</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 3: Slightly Used Balloons</mystring>
+            <id>1201</id>
+            <locked>0</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 4: "Teen Sasquatch" on the Angst Network</mystring>
+            <id>1200</id>
+            <locked>0</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 5: Kale Mart</mystring>
+            <id>1199</id>
+            <locked>0</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 6: The Anti-Pedestrian Council</mystring>
+            <id>1198</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 7: Hoarder Helpers</mystring>
+            <id>1197</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 8: Vegan Cannibal Supply Co.</mystring>
+            <id>1196</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 9: Oopsie Daddy Male Pregancy Tests</mystring>
+            <id>1195</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 10: Is It A Dog? The Game</mystring>
+            <id>1194</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 11: The 24-Hour Wicker Store</mystring>
+            <id>1193</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 12: Indoor Sunglasses</mystring>
+            <id>1192</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 13: The Devil</mystring>
+            <id>1191</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 14: "Stop Sign Quarterly" Magazine</mystring>
+            <id>1190</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 15: MWC: The Mime Weather Channel</mystring>
+            <id>1189</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 16: Giant Kitchen Appliances</mystring>
+            <id>1188</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 17: Accordion To Jim Accordion Store</mystring>
+            <id>1187</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+             <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 18: Spray-On Sunburn</mystring>
+            <id>1186</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+             <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 19: Sculpt-By-Numbers</mystring>
+            <id>1185</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 20: The Alliance of Mole People for a Better America</mystring>
+            <id>1184</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+             <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 21: Legal Puppets</mystring>
+            <id>1183</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 22: One-a-Month Vitamins</mystring>
+            <id>1182</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+         <item>
+            <mystring>Episode 23: Overgrown Backyard Supply Store</mystring>
+            <id>1181</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 24: Neptune</mystring>
+            <id>1180</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 25: Hats for Rats</mystring>
+            <id>1179</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 26: P-N-Pool Pool Toilets</mystring>
+            <id>1178</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 27: Nose Candy Co.</mystring>
+            <id>1177</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 28: Shrunken Heads Superstore</mystring>
+            <id>1176</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 29: Rocks That Kinda Look Like Things</mystring>
+            <id>1175</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 30: The Banana &amp; Hammock Store</mystring>
+            <id>1174</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 31: Peeping Todd's Pervert Supplies</mystring>
+            <id>1173</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 32: Bland McDally's Incorrect Maps</mystring>
+            <id>1172</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 33: Luxury Tin Foil Hats</mystring>
+            <id>1171</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 34: Angry Mob Superstore</mystring>
+            <id>1170</id>
+            <locked>1</locked>
+            <pack>0</pack>
+            <seen>0</seen>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 35: Butt Busts</mystring>
+            <id>1169</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 36: The Finger of the Month Club</mystring>
+            <id>1168</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 37: Edi-Bowl Edible Toilets</mystring>
+            <id>1167</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 38: Cattle Pults</mystring>
+            <id>1166</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+             <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 39: A Hole Premium Holes</mystring>
+            <id>1165</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+             <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 40: Corn!</mystring>
+            <id>1164</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 41: The Vatican Gift Shoppe</mystring>
+            <id>1163</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+             <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 42: Mother Trucker: Truck Store for Women</mystring>
+            <id>1162</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 43: Chemi-Cal's Chemicals</mystring>
+            <id>1161</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 44: JFN: The Junk Food Network</mystring>
+            <id>1160</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 45: Optome-Tricks Novelty Eyewear</mystring>
+            <id>1159</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 46: The CIA Outlet Store</mystring>
+            <id>1158</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+             <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 47: Underwear Innovations, Inc.</mystring>
+            <id>1157</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+             <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 48: Just Bats</mystring>
+            <id>1156</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 49: Fun-Plus-One Sidecars</mystring>
+            <id>1155</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+             <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode 50: Cookie Masterson's Closet</mystring>
+            <id>1154</id>
+            <locked>1</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+        <item>
+            <mystring>Episode B: Microphones That Slightly Resemble Things</mystring>
+            <id>1234</id>
+            <locked>0</locked>
+            <seen>0</seen>
+            <pack>0</pack>
+            <prize>0</prize>
+            <playable>1</playable>
+        </item>
+   </string-array>
+</resources>
