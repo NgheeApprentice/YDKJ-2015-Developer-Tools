@@ -73,7 +73,7 @@ Upon sending this command, a list of all the above commands will be listed in th
 Upon sending this command, all tuneable values will be reset to their defaults. This refers to Booleans in `enableUniform...Points(Boolean)` commands, integers in `setUniform...PointsValue(integer)` commands, and all other values customisable by these DeveloperConsole commands.
 
 # Bonus: Episode B: Microphones that Slightly Resemble Things!
-Try out a new episode, with all new custom prompts written by yours truly. If you're here before the video showcasing this episode, thanks for playing early!
+Try out a new episode, with all new custom prompts written by yours truly.
 
 ## Bonus: "isDemo":"Boolean",
 This is a bonus toggle made for this game's jbg.config.jet. Simply type it in and set a Boolean value (and add a comma at the end of quotation marks if necessary) to give the "isDemo" config toggle functionality. When set to true, the game will load in its demo version, with limited episodes and exclusive widgets. Setting this config toggle to false will load the game in its original, commercial state.
