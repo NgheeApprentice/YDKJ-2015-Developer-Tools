@@ -36,6 +36,7 @@ There are a few tools here to enhance your YDKJ:2015 experience. A lot of which 
 - `disableScrews(Boolean)`
 - `setFuTotal(int)`
 - `clearCustomNamesSaveData()`
+
 But what do these actually do? Well, I was hoping the command names were obvious enough, but I'll go into detail anyways.
 
 ## enableUniformDisOrDatBonusPoints(Boolean) : void
@@ -123,17 +124,17 @@ Try out a new episode, with all new custom prompts written by yours truly.
 # 1.1 Bonus: Episode C: Skin-Broidery Body Personalisation Services
 Another bonus episode, with twelve questions, two endings, and at least one instance of music from You Don't Know Jack: 2011!
 
-# 1.1 Bonus: All-new Jack Attack Talkshow template tags!
-More ways to customise your Jack Attacks!
-## bMultiplayerEnding (t = B)
+## 1.1 Bonus: All-new Jack Attack Talkshow template tags!
+More ways to customise your Jack Attacks! (accessible through each Jack Attack's data.jet)
+ ### bMultiplayerEnding (t = B)
 When set to true, ignores score-based audio in multiplayer games, and instead plays the audio referenced in aEMultiplayer.
-## aEMultiplayer (t = A)
+### aEMultiplayer (t = A)
 Audio tag that plays when bMultiplayerEnding is set to true, right after the player scores are revealed and the outro music plays. Much like 'aEStandalone,' but for multiplayer games.
 
-# 1.1 Bonus: Custom name easter egg additions!
-## Identical name triggers restored!
+## 1.1 Bonus: Custom name easter egg additions!
+### Identical name triggers restored!
 Custom special audio now plays for each custom name easter egg trigger when more than one player share the same custom name trigger.
-## New custom name triggers added!
+### New custom name triggers added!
 Find them all!
 
 ## Bonus: "isDemo":"Boolean",
