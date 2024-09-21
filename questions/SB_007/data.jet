@@ -1,0 +1,186 @@
+{
+    "fields":[
+        {
+            "v":"Biology",
+            "t":"S",
+            "n":"tSubject"
+        },
+        {
+            "v":"aCat",
+            "t":"A",
+            "n":"aCat",
+            "s":"An unlikely cameo"
+        },
+        {
+            "v":"An unlikely cameo",
+            "t":"S",
+            "n":"tCat"
+        },
+        {
+            "v":"32",
+            "t":"N",
+            "n":"nBumper"
+        },
+        {
+            "v":"1",
+            "t":"N",
+            "n":"nBumperPlacement"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bIntro"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bIntro2"
+        },
+        {
+            "v":"aIntro",
+            "t":"A",
+            "n":"aIntro",
+            "s":"Hmm, I’m thinking what the fanbase wants right now is the return of a character they know and love. Someone that can bring comic relief to the disaster that this episode has become. You know, I saw a figure in Old Man’s room just earlier. Maybe Old Man can come in for a question!"
+        },
+        {
+            "v":"aIntro2",
+            "t":"A",
+            "n":"aIntro2",
+            "s":"(prolonged silence) Yep, he’s dead."
+        },
+        {
+            "v":"aQuestion",
+            "t":"A",
+            "n":"aQuestion",
+            "s":"Yeah no, Old Man’s corpse has just been lying in this abandoned studio for God knows how long. Assuming he died of natural causes at around the average life expectancy for males in 2020, (which, let’s be real, there’s NO way that happened) how old would Old Man have been when he died?"
+        },
+        {
+            "v":"S+0.00",
+            "t":"S",
+            "n":"$aQuestion$cQ1"
+        },
+        {
+            "v":"S+5.13",
+            "t":"S",
+            "n":"$aQuestion$cQ2"
+        },
+        {
+            "v":"S+12.227",
+            "t":"S",
+            "n":"$aQuestion$cQ3"
+        },
+        {
+            "v":"Yeah no, Old Man’s corpse has just been lying in this abandoned studio for God knows how long.",
+            "t":"S",
+            "n":"tQ1"
+        },
+        {
+            "v":"Assuming he died of natural causes at around the average life expectancy for males in 2020,",
+            "t":"S",
+            "n":"tQ2"
+        },
+        {
+            "v":"how old would Old Man have been when he died?",
+            "t":"S",
+            "n":"tQ3"
+        },
+        {
+            "v":"73 years",
+            "t":"S",
+            "n":"tRight"
+        },
+        {
+            "v":"69 years",
+            "t":"S",
+            "n":"tW1"
+        },
+        {
+            "v":"79 years",
+            "t":"S",
+            "n":"tW2"
+        },
+        {
+            "v":"82 years",
+            "t":"S",
+            "n":"tW3"
+        },
+        {
+            "v":"1,0,2,3",
+            "t":"S",
+            "n":"tMCOrder"
+        },
+        {
+            "v":"aChoices",
+            "t":"A",
+            "n":"aChoices",
+            "s":"69 years, 73 years, 79 years or 82 years?"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bW1"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bW2"
+        },
+        {
+            "v":"false",
+            "t":"B",
+            "n":"bW3"
+        },
+        {   
+            "v":"aW1",
+            "t":"A",
+            "n":"aW1",
+            "s":"Hehe... nice"
+        },
+        {
+            "v":"aW2",
+            "t":"A",
+            "n":"aW2",
+            "s":"That’s actually the average life expectancy for a woman in 2020. And for you to assume that-- actually, I’m livestreaming this episode. Maybe I shouldn’t continue this joke."
+        },
+        {
+            "v":"aW3",
+            "t":"A",
+            "n":"aW3",
+            "s":""
+        },
+        {
+            "v":"aExp",
+            "t":"A",
+            "n":"aExp",
+            "s":"The average life expectancy for males in 2020 was around 73 years. The exact decimals depend on where you get your info, but I’m just going to assume that Old Man was 73 years old when he died."
+        },
+        {
+            "v":"aJoke",
+            "t":"A",
+            "n":"aJoke",
+            "s":"Well, that guest question idea was a bust. Turns out a rotting corpse isn’t exactly the most entertaining thing in the world to talk to. How are those ratings going by the way--? TWO STARS?! That quickly?! Oh no, I need to think of something fast."
+        },
+        {
+            "v":"0",
+            "t":"N",
+            "n":"nPrize"
+        },
+        {
+            "v":"aPrizePre",
+            "t":"A",
+            "n":"aPrizePre",
+            "s":""
+        },
+        {
+            "v":"aPrize",
+            "t":"A",
+            "n":"aPrize",
+            "s":""
+        },
+        {
+            "v":"gPrize",
+            "t":"G",
+            "n":"gPrize"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "fields":[
+        {
+            "v":"Education",
+            "t":"S",
+            "n":"tSubject"
+        },
+        {
+            "v":"aCat",
+            "t":"A",
+            "n":"aCat",
+            "s":"Counting past the number 2 is not my strong suit"
+        },
+        {
+            "v":"Counting past the number 2 is not my strong suit",
+            "t":"S",
+            "n":"tCat"
+        },
+        {
+            "v":"0",
+            "t":"N",
+            "n":"nBumper"
+        },
+        {
+            "v":"0",
+            "t":"N",
+            "n":"nBumperPlacement"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bIntro"
+        },
+        {
+            "v":"false",
+            "t":"B",
+            "n":"bIntro2"
+        },
+        {
+            "v":"aIntro",
+            "t":"A",
+            "n":"aIntro",
+            "s":"So the other day I was looking through my old high school notes, and wanted to learn more about ‘half-life.’ So I searched it up on Google and now it thinks I’m a gamer and I can no longer count to three. Great."
+        },
+        {
+            "v":"aIntro",
+            "t":"A",
+            "n":"aIntro2",
+            "s":""
+        },
+        {
+            "v":"aQuestion",
+            "t":"A",
+            "n":"aQuestion",
+            "s":"Where could I bring up the term ‘half-life’ without immediately being classified as a gamer?"
+        },
+        {
+            "v":"S+0.00",
+            "t":"S",
+            "n":"$aQuestion$cQ1"
+        },
+        {
+            "v":"Where could I bring up the term ‘half-life’ without immediately being classified as a gamer?",
+            "t":"S",
+            "n":"tQ1"
+        },
+        {
+            "v":"In a NUCLEAR PHYSICS class",
+            "t":"S",
+            "n":"tRight"
+        },
+        {
+            "v":"In a STATISTICS class",
+            "t":"S",
+            "n":"tW1"
+        },
+        {
+            "v":"In a BIOLOGY class",
+            "t":"S",
+            "n":"tW2"
+        },
+        {
+            "v":"In a STOCK MARKET crash course",
+            "t":"S",
+            "n":"tW3"
+        },
+        {
+            "v":"1,2,0,3",
+            "t":"S",
+            "n":"tMCOrder"
+        },
+        {
+            "v":"aChoices",
+            "t":"A",
+            "n":"aChoices",
+            "s":"In a STATISTICS class, in a BIOLOGY class, in a NUCLEAR PHYSICS class, or in a STOCK MARKET crash course"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bW1"
+        },
+        {
+            "v":"false",
+            "t":"B",
+            "n":"bW2"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bW3"
+        },
+        {   
+            "v":"aW1",
+            "t":"A",
+            "n":"aW1",
+            "s":"Your score is about to witness a very abnormal distribution."
+        },
+        {
+            "v":"aW2",
+            "t":"A",
+            "n":"aW2",
+            "s":""
+        },
+        {
+            "v":"aW3",
+            "t":"A",
+            "n":"aW3",
+            "s":"Wanna see your stocks go in the red?"
+        },
+        {
+            "v":"aExp",
+            "t":"A",
+            "n":"aExp",
+            "s":"While also being the name of a game series by Valve, the term ‘half-life’ refers to a nuclear physics term that refers to the amount of time for one half of a radioactive isotope to decay. So, in a nuclear physics class, I would have the best chances of being able to bring up the term ‘half-life’ without being called a gamer."
+        },
+        {
+            "v":"aJoke",
+            "t":"A",
+            "n":"aJoke",
+            "s":"Y’know, that’s not something I’d like to take any chances on. In some circles, the word ‘gamer’ is considered a slur. But like, I host a video game, so that’s totally different."
+        },
+        {
+            "v":"0",
+            "t":"N",
+            "n":"nPrize"
+        },
+        {
+            "v":"aPrizePre",
+            "t":"A",
+            "n":"aPrizePre",
+            "s":""
+        },
+        {
+            "v":"aPrize",
+            "t":"A",
+            "n":"aPrize",
+            "s":""
+        },
+        {
+            "v":"gPrize",
+            "t":"G",
+            "n":"gPrize"
+        }
+    ]
+}

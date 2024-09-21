@@ -1,0 +1,206 @@
+{
+    "fields":[
+        {
+            "v":"Celebrities",
+            "t":"S",
+            "n":"tSubject"
+        },
+        {
+            "v":"aCat",
+            "t":"A",
+            "n":"aCat",
+            "s":"Trash talking the haters online"
+        },
+        {
+            "v":"Trash talking the haters online",
+            "t":"S",
+            "n":"tCat"
+        },
+        {
+            "v":"3",
+            "t":"N",
+            "n":"nBumper"
+        },
+        {
+            "v":"1",
+            "t":"N",
+            "n":"nBumperPlacement"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bIntro"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bIntro2"
+        },
+        {
+            "v":"aIntro",
+            "t":"A",
+            "n":"aIntro",
+            "s":"Okay, now to get the attention of the modern You Don’t Know Jack fan. How about… Oh! I’ve got it! You Don’t Know Jack: Full Stream’s Data Mining questions are pretty much identical to this question type!"
+        },
+        {
+            "v":"aIntro2",
+            "t":"A",
+            "n":"aIntro2",
+            "s":"Okay, Full Stream fans, just pretend the ‘Data Mining’ bumper just  played. I promise you’ll barely tell the difference. Alright, fanservice don’t let me down."
+        },
+        {
+            "v":"aQuestion",
+            "t":"A",
+            "n":"aQuestion",
+            "s":"“Things to do live on Saturday night”, “Hardships of being <i>Almost Famous<\/i>”, “Talk shows to host Tonight” Who’s trash is this-- (sorry--) Who’s search history have we acquired?"
+        },
+        {
+            "v":"S+0.00",
+            "t":"S",
+            "n":"$aQuestion$cQ1"
+        },
+        {
+            "v":"S+2.673",
+            "t":"S",
+            "n":"$aQuestion$cQ2"
+        },
+        {
+            "v":"S+5.229",
+            "t":"S",
+            "n":"$aQuestion$cQ3"
+        },
+        {
+            "v":"S+7.116",
+            "t":"S",
+            "n":"$aQuestion$cQ4"
+        },
+        {
+            "v":"S+8.592",
+            "t":"S",
+            "n":"$aQuestion$cQ5"
+        },
+        {
+            "v":"“Things to do live on Saturday night”,\n",
+            "t":"S",
+            "n":"tQ1"
+        },
+        {
+            "v":"“Hardships of being <i>Almost Famous<\/i>”,\n",
+            "t":"S",
+            "n":"tQ2"
+        },
+        {
+            "v":"“Talk shows to host Tonight”,\n",
+            "t":"S",
+            "n":"tQ3"
+        },
+        {
+            "v":"Who’s trash is this--",
+            "t":"S",
+            "n":"tQ4"
+        },
+        {
+            "v":"Who’s search history have we acquired?",
+            "t":"S",
+            "n":"tQ5"
+        },
+        {
+            "v":"Jimmy Fallon",
+            "t":"S",
+            "n":"tRight"
+        },
+        {
+            "v":"Paul Rudd",
+            "t":"S",
+            "n":"tW1"
+        },
+        {
+            "v":"Frasier Cane",
+            "t":"S",
+            "n":"tW2"
+        },
+        {
+            "v":"Binjpipe",
+            "t":"S",
+            "n":"tW3"
+        },
+        {
+            "v":"1,2,0,3",
+            "t":"S",
+            "n":"tMCOrder"
+        },
+        {
+            "v":"aChoices",
+            "t":"A",
+            "n":"aChoices",
+            "s":"Paul Rudd, Frasier Cane, Jimmy Fallon or Binjpipe omygosh Binjpipe!"
+        },
+        {
+            "v":"false",
+            "t":"B",
+            "n":"bW1"
+        },
+        {
+            "v":"false",
+            "t":"B",
+            "n":"bW2"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bW3"
+        },
+        {   
+            "v":"aW1",
+            "t":"A",
+            "n":"aW1",
+            "s":""
+        },
+        {
+            "v":"aW2",
+            "t":"A",
+            "n":"aW2",
+            "s":""
+        },
+        {
+            "v":"aW3",
+            "t":"A",
+            "n":"aW3",
+            "s":"Say it with me now... FANSERVICE! FANSERVICE!"
+        },
+        {
+            "v":"aExp",
+            "t":"A",
+            "n":"aExp",
+            "s":"Jimmy Fallon spent his early years in show business performing on Saturday Night Live, starred in the 2000 film Almost Famous, and hosts the late night talk show The Tonight Show Starring Jimmy Fallon."
+        },
+        {
+            "v":"aJoke",
+            "t":"A",
+            "n":"aJoke",
+            "s":"Yeah, I know that was a pretty easy question, but I had to bite the bullet and write something that would be a You Don’t Know Jack: Full Stream reference. And that still did nothing to my ratings! Man, I need to condense as much fanservice as I possibly can in this final question! And I have one final trick up my sleeve."
+        },
+        {
+            "v":"0",
+            "t":"N",
+            "n":"nPrize"
+        },
+        {
+            "v":"aPrizePre",
+            "t":"A",
+            "n":"aPrizePre",
+            "s":""
+        },
+        {
+            "v":"aPrize",
+            "t":"A",
+            "n":"aPrize",
+            "s":""
+        },
+        {
+            "v":"gPrize",
+            "t":"G",
+            "n":"gPrize"
+        }
+    ]
+}

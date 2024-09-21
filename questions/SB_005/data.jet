@@ -1,0 +1,196 @@
+{
+    "fields":[
+        {
+            "v":"Astronomy",
+            "t":"S",
+            "n":"tSubject"
+        },
+        {
+            "v":"aCat",
+            "t":"A",
+            "n":"aCat",
+            "s":"Stargazing for a good review"
+        },
+        {
+            "v":"Stargazing for a good review",
+            "t":"S",
+            "n":"tCat"
+        },
+        {
+            "v":"0",
+            "t":"N",
+            "n":"nBumper"
+        },
+        {
+            "v":"0",
+            "t":"N",
+            "n":"nBumperPlacement"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bIntro"
+        },
+        {
+            "v":"false",
+            "t":"B",
+            "n":"bIntro2"
+        },
+        {
+            "v":"aIntro",
+            "t":"A",
+            "n":"aIntro",
+            "s":"So for context, I have this little device here that tells me how people are feeling about this custom episode of You Don’t Know Jack: 2015 in real time as it’s broadcasted. On my Twitch channel of course, this facility is too run down for any of its old broadcasting technology to work. Anyways..."
+        },
+        {
+            "v":"aIntro",
+            "t":"A",
+            "n":"aIntro2",
+            "s":""
+        },
+        {
+            "v":"aQuestion",
+            "t":"A",
+            "n":"aQuestion",
+            "s":"Ever since I made that joke about You Don’t Know Jack: Full Stream fans in question 3, my ratings have been slowly going down. If I wanted to maintain a FIVE STAR rating, what ancient constellation might inspire me to get there?"
+        },
+        {
+            "v":"S+0.00",
+            "t":"S",
+            "n":"$aQuestion$cQ1"
+        },
+        {
+            "v":"S+3.807",
+            "t":"S",
+            "n":"$aQuestion$cQ2"
+        },
+        {
+            "v":"S+6.43",
+            "t":"S",
+            "n":"$aQuestion$cQ3"
+        },
+        {
+            "v":"S+8.495",
+            "t":"S",
+            "n":"$aQuestion$cQ4"
+        },
+        {
+            "v":"Ever since I made that joke about <i>You Don’t Know Jack: Full Stream<\/i> fans in question 3,",
+            "t":"S",
+            "n":"tQ1"
+        },
+        {
+            "v":"my ratings have been slowly going down.",
+            "t":"S",
+            "n":"tQ2"
+        },
+        {
+            "v":"If I wanted to maintain a FIVE STAR rating,",
+            "t":"S",
+            "n":"tQ3"
+        },
+        {
+            "v":"what ancient constellation might inspire me to get there?",
+            "t":"S",
+            "n":"tQ4"
+        },
+        {
+            "v":"The Queen/Cassiopeia",
+            "t":"S",
+            "n":"tRight"
+        },
+        {
+            "v":"The Cross/Crux",
+            "t":"S",
+            "n":"tW1"
+        },
+        {
+            "v":"The Little Dog/Canis Minor",
+            "t":"S",
+            "n":"tW2"
+        },
+        {
+            "v":"The Big Dipper",
+            "t":"S",
+            "n":"tW3"
+        },
+        {
+            "v":"1,2,0,3",
+            "t":"S",
+            "n":"tMCOrder"
+        },
+        {
+            "v":"aChoices",
+            "t":"A",
+            "n":"aChoices",
+            "s":"The Cross/Crux, The Little Dog/Canis Minor, The Queen/Cassiopeia, or The Big Dipper"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bW1"
+        },
+        {
+            "v":"false",
+            "t":"B",
+            "n":"bW2"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bW3"
+        },
+        {   
+            "v":"aW1",
+            "t":"A",
+            "n":"aW1",
+            "s":"Jesus won’t be saving you from this cross."
+        },
+        {
+            "v":"aW2",
+            "t":"A",
+            "n":"aW2",
+            "s":""
+        },
+        {
+            "v":"aW3",
+            "t":"A",
+            "n":"aW3",
+            "s":"Contrary to popular belief, The Big Dipper is not actually an official ancient constellation; it’s actually a part of a larger constellation that goes by the name Ursa Major, or The Great Bear. That being said, The Big Dipper is actually composed of seven stars. So, in summary, you’re wrong."
+        },
+        {
+            "v":"aExp",
+            "t":"A",
+            "n":"aExp",
+            "s":"While there are a few more insignificant stars in the full constellation, The Queen constellation is composed of 5 main stars, so I would most likely want this constellation to inspire me to get my five star ratings back."
+        },
+        {
+            "v":"aJoke",
+            "t":"A",
+            "n":"aJoke",
+            "s":"But man is that five star rating gonna be hard to get back. I’m losing viewers and ratings by the minute. I need to find some methods to pander-- I mean appeal to the You Don’t Know Jack fanbase. If I can win them, I’ve pretty much won this episode’s entire target audience!"
+        },
+        {
+            "v":"0",
+            "t":"N",
+            "n":"nPrize"
+        },
+        {
+            "v":"aPrizePre",
+            "t":"A",
+            "n":"aPrizePre",
+            "s":""
+        },
+        {
+            "v":"aPrize",
+            "t":"A",
+            "n":"aPrize",
+            "s":""
+        },
+        {
+            "v":"gPrize",
+            "t":"G",
+            "n":"gPrize"
+        }
+    ]
+}

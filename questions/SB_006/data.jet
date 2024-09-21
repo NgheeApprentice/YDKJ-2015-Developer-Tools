@@ -1,0 +1,196 @@
+{
+    "fields":[
+        {
+            "v":"Nature",
+            "t":"S",
+            "n":"tSubject"
+        },
+        {
+            "v":"aCat",
+            "t":"A",
+            "n":"aCat",
+            "s":"I forced that special rare Question 6 bumper just for you, fans!"
+        },
+        {
+            "v":"I forced that special rare Question 6 bumper just for you, fans!",
+            "t":"S",
+            "n":"tCat"
+        },
+        {
+            "v":"0",
+            "t":"N",
+            "n":"nBumper"
+        },
+        {
+            "v":"0",
+            "t":"N",
+            "n":"nBumperPlacement"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bIntro"
+        },
+        {
+            "v":"false",
+            "t":"B",
+            "n":"bIntro2"
+        },
+        {
+            "v":"aIntro",
+            "t":"A",
+            "n":"aIntro",
+            "s":"That’s right, and that will only be one of many things I’m willing to do to cater to the You Don’t Know Jack fanbase! Anything to get out of the red with these mediocre ratings I’m getting. ‘You ever notice how in a lot of custom episodes for this game, the questions the host asks just happen to conveniently be tangentially related to whatever the character is supposedly going through? (pause for beat) Anyways, on a completely unrelated note:"
+        },
+        {
+            "v":"aIntro",
+            "t":"A",
+            "n":"aIntro2",
+            "s":""
+        },
+        {
+            "v":"aQuestion",
+            "t":"A",
+            "n":"aQuestion",
+            "s":"To get out of the red with the low ratings I’m currently getting on this episode, I need to pander (I mean, cater) to the die-hard YDKJ fanbase. (‘You still following? Okay.) Now, if I had my own red panda that could pander (*clears throat* CATER) to the die-hard YDKJ fanbase, what could I NOT get it to do, due to its anatomical limitations? (and also animal cruelty laws as well)"
+        },
+        {
+            "v":"S+0.00",
+            "t":"S",
+            "n":"$aQuestion$cQ1"
+        },
+        {
+            "v":"S+3.183",
+            "t":"S",
+            "n":"$aQuestion$cQ2"
+        },
+        {
+            "v":"S+8.138",
+            "t":"S",
+            "n":"$aQuestion$cQ3"
+        },
+        {
+            "v":"S+12.994",
+            "t":"S",
+            "n":"$aQuestion$cQ4"
+        },
+        {
+            "v":"To get out of the red with the low ratings I’m currently getting on this episode,",
+            "t":"S",
+            "n":"tQ1"
+        },
+        {
+            "v":"I need to pander to the die-hard YDKJ fanbase.",
+            "t":"S",
+            "n":"tQ2"
+        },
+        {
+            "v":"Now, if I had my own red panda that could pander to the die-hard YDKJ fanbase,",
+            "t":"S",
+            "n":"tQ3"
+        },
+        {
+            "v":"what could I NOT get it to do, due to its anatomical limitations?",
+            "t":"S",
+            "n":"tQ4"
+        },
+        {
+            "v":"Show its love for YDKJ with two hearts",
+            "t":"S",
+            "n":"tRight"
+        },
+        {
+            "v":"Count all six classic YDKJ volumes on one of its front paws",
+            "t":"S",
+            "n":"tW1"
+        },
+        {
+            "v":"Scratch the YDKJ logo onto my desk with its claws",
+            "t":"S",
+            "n":"tW2"
+        },
+        {
+            "v":"Wear the YDKJ logo on its skin",
+            "t":"S",
+            "n":"tW3"
+        },
+        {
+            "v":"1,2,3,0",
+            "t":"S",
+            "n":"tMCOrder"
+        },
+        {
+            "v":"aChoices",
+            "t":"A",
+            "n":"aChoices",
+            "s":"Count all six classic YDKJ volumes on one of its front paws, scratch the YDKJ logo onto my desk with its claws, wear the YDKJ logo on its skin, or how its love for YDKJ with two hearts?"
+        },
+        {
+            "v":"false",
+            "t":"B",
+            "n":"bW1"
+        },
+        {
+            "v":"false",
+            "t":"B",
+            "n":"bW2"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bW3"
+        },
+        {   
+            "v":"aW1",
+            "t":"A",
+            "n":"aW1",
+            "s":""
+        },
+        {
+            "v":"aW2",
+            "t":"A",
+            "n":"aW2",
+            "s":""
+        },
+        {
+            "v":"aW3",
+            "t":"A",
+            "n":"aW3",
+            "s":"You’d definitely have to shave it, but the red panda definitely has skin we could decorate."
+        },
+        {
+            "v":"aExp",
+            "t":"A",
+            "n":"aExp",
+            "s":"The red panda only has one heart. Not two."
+        },
+        {
+            "v":"aJoke",
+            "t":"A",
+            "n":"aJoke",
+            "s":"Hmm, the ratings are going lower than ever before. Perhaps I should have been more subtle. But being subtle is so hard to do when you have the uncontainable urge to ask a trivia question that’s tangentially related to a narrative you never wanted to be a part of!"
+        },
+        {
+            "v":"3",
+            "t":"N",
+            "n":"nPrize"
+        },
+        {
+            "v":"aPrizePre",
+            "t":"A",
+            "n":"aPrizePre",
+            "s":"And now you can decorate your own skin, using..."
+        },
+        {
+            "v":"aPrize",
+            "t":"A",
+            "n":"aPrize",
+            "s":"A coupon for an exclusive appointment to have the You Don’t Know Jack logo embroidered onto your bare upper chest! Courtesy of SkinBroidery Body Personalisation Services, because tattoo designs don’t have 3-dimensional texture, but our designs do."
+        },
+        {
+            "v":"gPrize",
+            "t":"G",
+            "n":"gPrize"
+        }
+    ]
+}

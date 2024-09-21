@@ -1,0 +1,68 @@
+{
+    "fields":[
+        {
+            "v":"false",
+            "t":"B",
+            "n":"bOpponent"
+        },
+        {
+            "v":"aCat",
+            "t":"A",
+            "n":"aCat",
+            "s":"...and for that, I’m terribly sorry. Wait, I started the Jack Attack instead?! No one heard my apology?! Okay I guess your clue is ‘Shady corporations?! Binjpipe reference?!’ Oh man..."
+        },
+        {
+            "v":"Shady corporations?! Binjpipe reference?!",
+            "t":"S",
+            "n":"tCat"
+        },
+        {
+            "v":"aClue",
+            "t":"A",
+            "n":"aClue",
+            "s":"Find the shady corporation associated with these pieces of media. Also I’m so sorry, I wrote this Jack Attack before my apology. No hard feelings?"
+        },
+        {
+            "v":"<i>Blade Runner<\/i>|<i>Wall·E<\/i>|<i>Portal<\/i>|<i>Spider-Man<\/i> (the Tobey Maguire one)|<i>1984<\/i>|<i>The Social Network<\/i>|<i>You Don’t Know Jack<\/i>",
+            "t":"S",
+            "n":"tQuestions"
+        },
+        {
+            "v":"The Tyrell Corporation|Buy N Large|Aperture Science|Oscorp|“The Party”|Facebook|Binjpipe",
+            "t":"S",
+            "n":"tMatches"
+        },
+        {
+            "v":"EVE|Black Mesa|Octan|socialism|The World Wide Web|The answer is Binjpipe…",
+            "t":"S",
+            "n":"tDecoyA"
+        },
+        {
+            "v":"Amazon.com|Wheatley Inc.|Goblin Tech|Though Police|Netflix|_____ reference?!",
+            "t":"S",
+            "n":"tDecoyB"
+        },
+        {
+            "v":"Society|The United States Government|Monster’s Inc.|Pfizer|Elon Musk|S.H.I.E.L.D|McDonald’s|PETA|Live Corp",
+            "t":"S",
+            "n":"tDecoyGen"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bMultiplayerEnding"
+        },
+        {
+            "v":"aEStandalone",
+            "t":"A",
+            "n":"aEStandalone",
+            "s":"Well, I only have one viewer left, and my ratings have gone to zero. But you know what? I’m thankful for you, player 1. You stuck by my side and played all my questions despite everything; and for that I commend you. And for my one other viewer, I’d like to say (*leans back to look at stats, is less audible*) Wait, that one viewer is my alt account?! SERIOUSLY?!"
+        },
+        {
+            "v":"aEMultiplayer",
+            "t":"A",
+            "n":"aEMultiplayer",
+            "s":"Well, it’s with a heavy heart that I must say that this player count has successfully outnumbered my current viewers on Twitch. But you guys all stuck it out and played all my questions when no one else would even watch. And through all the hardship, I’d like to call you all friends. So, now that we’re all friends, who wants to help me carry Old Man’s corpse?"
+        }
+    ]
+}

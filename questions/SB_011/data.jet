@@ -1,0 +1,206 @@
+{
+    "fields":[
+        {
+            "v":"Youtube",
+            "t":"S",
+            "n":"tSubject"
+        },
+        {
+            "v":"aCat",
+            "t":"A",
+            "n":"aCat",
+            "s":"The Jack Attack has unfortunately been postponed"
+        },
+        {
+            "v":"The Jack Attack has unfortunately been postponed",
+            "t":"S",
+            "n":"tCat"
+        },
+        {
+            "v":"0",
+            "t":"N",
+            "n":"nBumper"
+        },
+        {
+            "v":"0",
+            "t":"N",
+            "n":"nBumperPlacement"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bIntro"
+        },
+        {
+            "v":"false",
+            "t":"B",
+            "n":"bIntro2"
+        },
+        {
+            "v":"aIntro",
+            "t":"A",
+            "n":"aIntro",
+            "s":"So somehow, we’ve made it to question 11, and there is no Jack Attack in sight. One of my two remaining viewers has demanded that I do not continue to the Jack Attack until I address my wrongdoings and apologise to all You Don’t Know Jack fans. How this demand managed to completely alter the structure of this game is beyond me. Probably plot reasons. But you know what? I have been harsh, and I need to address that. Let me begin my apology:"
+        },
+        {
+            "v":"aIntro2",
+            "t":"A",
+            "n":"aIntro2",
+            "s":""
+        },
+        {
+            "v":"aQuestion",
+            "t":"A",
+            "n":"aQuestion",
+            "s":"“I've made a severe and continuous lapse in my judgement” DAMNIT! (I can’t believe I actually said that, what is wrong with me?!) Can I start my apology over? I don’t wanna look like... uhh... y’know..."
+        },
+        {
+            "v":"S+0.00",
+            "t":"S",
+            "n":"$aQuestion$cQ1"
+        },
+        {
+            "v":"S+4.20",
+            "t":"S",
+            "n":"$aQuestion$cQ2"
+        },
+        {
+            "v":"S+8.393",
+            "t":"S",
+            "n":"$aQuestion$cQ3"
+        },
+        {
+            "v":"S+9.902",
+            "t":"S",
+            "n":"$aQuestion$cQ4"
+        },
+        {
+            "v":"S+12.00",
+            "t":"S",
+            "n":"$aQuestion$cQ5"
+        },
+        {
+            "v":"“I've made a severe and continuous lapse in my judgement”",
+            "t":"S",
+            "n":"tQ1"
+        },
+        {
+            "v":"-- DAMNIT!",
+            "t":"S",
+            "n":"tQ2"
+        },
+        {
+            "v":"Can I start my apology over?",
+            "t":"S",
+            "n":"tQ3"
+        },
+        {
+            "v":"I don’t wanna look like... uhh...",
+            "t":"S",
+            "n":"tQ4"
+        },
+        {
+            "v":"y’know...",
+            "t":"S",
+            "n":"tQ5"
+        },
+        {
+            "v":"Logan Paul",
+            "t":"S",
+            "n":"tRight"
+        },
+        {
+            "v":"Colleen Ballinger",
+            "t":"S",
+            "n":"tW1"
+        },
+        {
+            "v":"James Charles",
+            "t":"S",
+            "n":"tW2"
+        },
+        {
+            "v":"The Fine Brothers",
+            "t":"S",
+            "n":"tW3"
+        },
+        {
+            "v":"0,1,2,3",
+            "t":"S",
+            "n":"tMCOrder"
+        },
+        {
+            "v":"aChoices",
+            "t":"A",
+            "n":"aChoices",
+            "s":"Logan Paul, Colleen Ballinger, James Charles or The Fine Brothers? Well, truth be told, I don't want to look like either of these, but I’m talking specifically right now..."
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bW1"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bW2"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bW3"
+        },
+        {   
+            "v":"aW1",
+            "t":"A",
+            "n":"aW1",
+            "s":"What made you think this was right? The toxic gossip train?"
+        },
+        {
+            "v":"aW2",
+            "t":"A",
+            "n":"aW2",
+            "s":"Considered your score slayed, queen."
+        },
+        {
+            "v":"aW3",
+            "t":"A",
+            "n":"aW3",
+            "s":"Do you mind if I record your reaction to this?"
+        },
+        {
+            "v":"aExp",
+            "t":"A",
+            "n":"aExp",
+            "s":"After Youtuber Logan Paul filmed an uploaded a video featuring a deceased individual hanging from a tree in Suicide Forest, Logan Paul addressed the controversy in arguably one of the most infamous apology videos to date; which started off with the message ‘I’ve made a severe and continuous lapse in my judgement.’ Which is why I really don’t want to be associated with him in such a vulnerable moment."
+        },
+        {
+            "v":"aJoke",
+            "t":"A",
+            "n":"aJoke",
+            "s":"Okay, I swear I have no idea what came over me when I said that. Is it okay if I start my apology over? I’d like to make my own apology video to address my behaviour. Now, unfortunately I don’t remember which button records the studio camera feed and which one starts the Jack Attack. Well, here goes nothing. Time to apologise… (button press sfx)"
+        },
+        {
+            "v":"0",
+            "t":"N",
+            "n":"nPrize"
+        },
+        {
+            "v":"aPrizePre",
+            "t":"A",
+            "n":"aPrizePre",
+            "s":""
+        },
+        {
+            "v":"aPrize",
+            "t":"A",
+            "n":"aPrize",
+            "s":""
+        },
+        {
+            "v":"gPrize",
+            "t":"G",
+            "n":"gPrize"
+        }
+    ]
+}

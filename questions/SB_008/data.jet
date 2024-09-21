@@ -1,0 +1,176 @@
+{
+    "fields":[
+        {
+            "v":"Movies",
+            "t":"S",
+            "n":"tSubject"
+        },
+        {
+            "v":"aCat",
+            "t":"A",
+            "n":"aCat",
+            "s":"Nostalgia’s Critic"
+        },
+        {
+            "v":"Nostalgia’s Critic",
+            "t":"S",
+            "n":"tCat"
+        },
+        {
+            "v":"0",
+            "t":"N",
+            "n":"nBumper"
+        },
+        {
+            "v":"0",
+            "t":"N",
+            "n":"nBumperPlacement"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bIntro"
+        },
+        {
+            "v":"false",
+            "t":"B",
+            "n":"bIntro2"
+        },
+        {
+            "v":"aIntro",
+            "t":"A",
+            "n":"aIntro",
+            "s":"Maybe I should try something a little more subtle to prey on the older You Don’t Know Jack fans. Maybe something from You Don’t Know Jack: 2011? How about..."
+        },
+        {
+            "v":"aIntro",
+            "t":"A",
+            "n":"aIntro2",
+            "s":""
+        },
+        {
+            "v":"aQuestion",
+            "t":"A",
+            "n":"aQuestion",
+            "s":"If I wanted to play You Don’t Know Jack: 2011 and chill with the two actors behind the titular characters of the 2011 film Jack and Jill, who would I end up playing with?"
+        },
+        {
+            "v":"S+4.595",
+            "t":"S",
+            "n":"$aQuestion$cQ1"
+        },
+        {
+            "v":"S+11.275",
+            "t":"S",
+            "n":"$aQuestion$cQ2"
+        },
+        {
+            "v":"If I wanted to play <i>You Don’t Know Jack: 2011<\/i> and chill with the two actors behind the titular characters of the 2011 film “<i>Jack and Jill<\/i>,”",
+            "t":"S",
+            "n":"tQ1"
+        },
+        {
+            "v":"who would I end up playing with?",
+            "t":"S",
+            "n":"tQ2"
+        },
+        {
+            "v":"Adam Sandler and Adam Sandler",
+            "t":"S",
+            "n":"tRight"
+        },
+        {
+            "v":"Adam Sandler and Rosario Dawson",
+            "t":"S",
+            "n":"tW1"
+        },
+        {
+            "v":"Adam Sandler and Jennifer Aniston",
+            "t":"S",
+            "n":"tW2"
+        },
+        {
+            "v":"Adam Sandler and Rob Schneider",
+            "t":"S",
+            "n":"tW3"
+        },
+        {
+            "v":"1,2,3,0",
+            "t":"S",
+            "n":"tMCOrder"
+        },
+        {
+            "v":"aChoices",
+            "t":"A",
+            "n":"aChoices",
+            "s":"Adam Sandler and Rosario Dawson, Adam Sandler and Jennifer Aniston, Adam Sandler and Rob Schneider or Adam Sandler and Adam Sandler?"
+        },
+        {
+            "v":"false",
+            "t":"B",
+            "n":"bW1"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bW2"
+        },
+        {
+            "v":"false",
+            "t":"B",
+            "n":"bW3"
+        },
+        {   
+            "v":"aW1",
+            "t":"A",
+            "n":"aW1",
+            "s":""
+        },
+        {
+            "v":"aW2",
+            "t":"A",
+            "n":"aW2",
+            "s":"(singing to Friends theme) Well, no one said the truth was gonna look this way!"
+        },
+        {
+            "v":"aW3",
+            "t":"A",
+            "n":"aW3",
+            "s":""
+        },
+        {
+            "v":"aExp",
+            "t":"A",
+            "n":"aExp",
+            "s":"The main production gimmick of 2011 film Jack and Jill is that both titular characters, each of opposite sex, were played by the same actor, Adam Sandler."
+        },
+        {
+            "v":"aJoke",
+            "t":"A",
+            "n":"aJoke",
+            "s":"It’s a real shame that such a film received an impressive 3% critic score on Rotten Tomatoes. Oh! That reminds me, how’s the Twitch broadcast going? 3 VIEWERS?!  Oh man, this is the worst my viewership has been since I called my subreddit unfunny! I need to pull off a stunt, STAT!"
+        },
+        {
+            "v":"0",
+            "t":"N",
+            "n":"nPrize"
+        },
+        {
+            "v":"aPrizePre",
+            "t":"A",
+            "n":"aPrizePre",
+            "s":""
+        },
+        {
+            "v":"aPrize",
+            "t":"A",
+            "n":"aPrize",
+            "s":""
+        },
+        {
+            "v":"gPrize",
+            "t":"G",
+            "n":"gPrize"
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "fields":[
+        {
+            "v":"English",
+            "t":"S",
+            "n":"tSubject"
+        },
+        {
+            "v":"aCat",
+            "t":"A",
+            "n":"aCat",
+            "s":"Say my name, say my name, it’s Biscuit Amateurson"
+        },
+        {
+            "v":"Say my name, say my name, it’s Biscuit Amateurson",
+            "t":"S",
+            "n":"tCat"
+        },
+        {
+            "v":"0",
+            "t":"N",
+            "n":"nBumper"
+        },
+        {
+            "v":"0",
+            "t":"N",
+            "n":"nBumperPlacement"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bIntro"
+        },
+        {
+            "v":"false",
+            "t":"B",
+            "n":"bIntro2"
+        },
+        {
+            "v":"aIntro",
+            "t":"A",
+            "n":"aIntro",
+            "s":"So, you heard me introduce myself in the intro; my name is Biscuit Amateurson and don’t ask about its origin. Anyways, you know that Destiny’s Child and Korma song, ‘Say my name?’"
+        },
+        {
+            "v":"aIntro",
+            "t":"A",
+            "n":"aIntro2",
+            "s":""
+        },
+        {
+            "v":"aQuestion",
+            "t":"A",
+            "n":"aQuestion",
+            "s":"If I were to write a parody cover of Destiny’s Child and Korma’s R&B song “Say My Name,” about the culinary definition of a biscuit, which of these lines would be the most accurate?” (Ahem, let me just start off) (singsong) Say my name, say my name!"
+        },
+        {
+            "v":"S+0.00",
+            "t":"S",
+            "n":"$aQuestion$cQ1"
+        },
+        {
+            "v":"S+6.824",
+            "t":"S",
+            "n":"$aQuestion$cQ2"
+        },
+        {
+            "v":"S+11.013",
+            "t":"S",
+            "n":"$aQuestion$cQ3"
+        },
+        {
+            "v":"If I were to write a parody cover of Destiny’s Child and Korma’s R&B song “<i>Say My Name<\/i>,” about the culinary definition of a biscuit,",
+            "t":"S",
+            "n":"tQ1"
+        },
+        {
+            "v":"which of these lines would be the most accurate?",
+            "t":"S",
+            "n":"tQ2"
+        },
+        {
+            "v":"Say my name, say my name!",
+            "t":"S",
+            "n":"tQ3"
+        },
+        {
+            "v":"ALL OF THE ABOVE",
+            "t":"S",
+            "n":"tRight"
+        },
+        {
+            "v":"I’m much more of a SWEET TREAT, maybe dunked in tea treat",
+            "t":"S",
+            "n":"tW1"
+        },
+        {
+            "v":"Oh, SAVOURY’s my game, CRACKER’s game, say my name",
+            "t":"S",
+            "n":"tW2"
+        },
+        {
+            "v":"A MINI CAKE OF BREAD, yuh, raised with baking soda",
+            "t":"S",
+            "n":"tW3"
+        },
+        {
+            "v":"1,2,3,0",
+            "t":"S",
+            "n":"tMCOrder"
+        },
+        {
+            "v":"aChoices",
+            "t":"A",
+            "n":"aChoices",
+            "s":"I’m much more of a SWEET TREAT, maybe dunked in tea treat; oh, SAVOURY’s my game, CRACKER’s game, say my name; A MINI CAKE OF BREAD, yuh, raised with baking soda; or ALL OF THE ABOVE."
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bW1"
+        },
+        {
+            "v":"false",
+            "t":"B",
+            "n":"bW2"
+        },
+        {
+            "v":"true",
+            "t":"B",
+            "n":"bW3"
+        },
+        {   
+            "v":"aW1",
+            "t":"A",
+            "n":"aW1",
+            "s":"No, that’s cookie. We don’t talk about Cookie."
+        },
+        {
+            "v":"aW2",
+            "t":"A",
+            "n":"aW2",
+            "s":"No cash Gromit, we’ve forgotten the cash!"
+        },
+        {
+            "v":"aW3",
+            "t":"A",
+            "n":"aW3",
+            "s":"Legend has it you might find a nugget in one of these"
+        },
+        {
+            "v":"aExp",
+            "t":"A",
+            "n":"aExp",
+            "s":"Americans refer to the term biscuit as a mini cake of bread, like the ones they sell at a Popeye’s, while the British refer to biscuits as both the sweet flat hard cakes and the savoury flat crackers. So the most accurate line would be all of the above."
+        },
+        {
+            "v":"aJoke",
+            "t":"A",
+            "n":"aJoke",
+            "s":"Though I guess I did leave out one definition. That being a snarky trivia-host understudy that was born out of the need to host fan episodes of You Don’t Know Jack, who, after writing this question, spent an embarrassing amount of days on end daydreaming about Beyoncé."
+        },
+        {
+            "v":"0",
+            "t":"N",
+            "n":"nPrize"
+        },
+        {
+            "v":"aPrizePre",
+            "t":"A",
+            "n":"aPrizePre",
+            "s":""
+        },
+        {
+            "v":"aPrize",
+            "t":"A",
+            "n":"aPrize",
+            "s":""
+        },
+        {
+            "v":"gPrize",
+            "t":"G",
+            "n":"gPrize"
+        }
+    ]
+}
