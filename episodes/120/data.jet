@@ -1,0 +1,35 @@
+{
+    "fields":[
+        {
+            "v":"Episode C: Skin-Broidery Body Personalisation Services",
+            "t":"S",
+            "n":"tTitle"
+        },
+        {
+            "v":"1,1,1,2,1,1,1,1,1,1,1,3",
+            "t":"S",
+            "n":"tTypes"
+        },
+        {
+            "v":"SB_001,SB_002,SB_003,SB_004,SB_005,SB_006,SB_007,SB_008,SB_009,SB_010,SB_011,SB_012","t":"S",
+            "n":"tQuestions"
+        },
+        {
+            "v":"aIntro",
+            "t":"A",
+            "n":"aIntro",
+            "s":"Hey, hey hey! This is Biscuit Amateurson, and I’ve been socially obligated by the pressures of fanservice to host an episode of You Don’t Know Jack: 2015! Wait, 2015? That’s so old! I can feel my flesh withering already!"
+        },
+        {
+            "v":"gLogo",
+            "t":"G",
+            "n":"gLogo"
+        },
+        {
+            "v":"aSponsor",
+            "t":"A",
+            "n":"aSponsor",
+            "s":"Skin-Broidery Body Personalisation services! Get out of here, tattoos, this isn’t your grandmother’s body art. This is body art with texture, stitched right onto your skin!"
+        }
+    ]
+}
